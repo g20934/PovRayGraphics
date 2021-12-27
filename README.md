@@ -1,5 +1,5 @@
 # PovRayGraphics
-Pov-Rayで作成したGraphic集です。<br>
+POV-Rayで作成したGraphic集です。<br>
 kadai2ver2.pov：汽車<br>
 ![kadai2ver2](https://user-images.githubusercontent.com/95006366/147346880-a8e0324d-08fc-4b66-bb8b-b9b5e8dbb72d.png)<br>
 kadai3ver2.pov：くまがブランコに乗っている<br>
